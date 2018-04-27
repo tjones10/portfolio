@@ -1,0 +1,44 @@
+font-face {
+    font-family: 'playfair_display_scregular';
+    src: url('fonts/playfairdisplaysc-regular-webfont.woff2') format('woff2'),
+         url('playfairdisplaysc-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body{
+    background-color: pink;
+}
+
+
+h1 {
+    font-family: 'playfair_display_scregular';
+    color: black;
+}
+
+h2 {
+    font-family: 'playfair_display_scregular';
+    color: black;
+    font-size: 12px;
+    align-content: center
+    align-content: flex-end
+}
+P {
+    font-family:'playfair_display_scregular';
+    color: black;
+}
+
+#header {
+    padding: 20px;
+    border: 1px black solid;
+    margin: 30px;
+    float: right
+
+}
+
+#bodycopy {
+    padding: 5px;
+    border: 1px  solid;
+    margin: 10px;
+}
