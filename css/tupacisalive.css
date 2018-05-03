@@ -40,3 +40,37 @@ P {
     border: 1px  solid;
     margin: 10px;
 }
+
+head {
+    padding: 20px;
+    border: 1px black solid;
+    margin: 50px;
+    font-size: 48px;
+}
+
+#float {
+    padding: 5px;
+    border: 1px black solid;
+    margin: 10px;
+}
+
+title {
+    align-content: space-around;
+    position: fixed;
+    padding:5px;
+    border: 1px black solid;
+    margin: 10px;
+
+}
+
+#logo {
+    height: 100px;
+    width: 100px;
+    align-content: space-around;
+    padding: 5px;
+    position: fixed;
+    top: -15px;
+    left: 100px
+
+}
+
