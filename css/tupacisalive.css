@@ -56,21 +56,28 @@ head {
 
 title {
     align-content: space-around;
-    position: fixed;
+    position: absolute;
     padding:5px;
     border: 1px black solid;
     margin: 10px;
+    font-size: 48px;
 
 }
 
 #logo {
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
     align-content: space-around;
     padding: 5px;
-    position: fixed;
-    top: -15px;
-    left: 100px
+    position: absolute;
+    top: -6px;
+    left: 150px
 
 }
 
+#boi {
+    position: absolute;
+    left: 600px;
+
+
+}
