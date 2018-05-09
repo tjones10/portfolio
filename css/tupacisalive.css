@@ -1,3 +1,8 @@
+#pent {
+
+}
+
+
 font-face {
     font-family: 'playfair_display_scregular';
     src: url('fonts/playfairdisplaysc-regular-webfont.woff2') format('woff2'),
@@ -5,7 +10,10 @@ font-face {
     font-weight: normal;
     font-style: normal;
 
+
 }
+
+
 
 body{
     background-color: pink;
@@ -85,5 +93,6 @@ h3 {
     text-align: center;
 }
 
-
-
+#bois {
+    align-content: center;
+}
