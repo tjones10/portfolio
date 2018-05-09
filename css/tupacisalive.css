@@ -45,20 +45,20 @@ P {
 
 #bodycopy {
     padding: 5px;
-
+    border: 1px black solid;
     margin: 10px;
 }
 
 head {
     padding: 20px;
-
+    border: 1px black solid;
     margin: 50px;
     font-size: 48px;
 }
 
 #float {
     padding: 5px;
-
+    border: 1px black solid;
     margin: 10px;
 }
 
